@@ -1,0 +1,1 @@
+sed -i -e 's/sudo//g' path_to_yourfile.sh
