@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#developer - philip ackroyd
+
     
 #Copyright (C) 2019  ackroydAI
 
