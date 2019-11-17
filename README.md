@@ -9,8 +9,8 @@ git clone https://github.com/AImissq/puppy-no-sudo-bash.git
 run ./no-sudo.sh
 Be warned there is no original backup created.
 
-Dependencies
-bash
+Dependencies-
+bash - 
 sed
 
 
